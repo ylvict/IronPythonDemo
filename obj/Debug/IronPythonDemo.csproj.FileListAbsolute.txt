@@ -1,0 +1,17 @@
+C:\Users\v-hoverz\Documents\Visual Studio 14\Projects\IronPythonDemo\bin\Debug\IronPythonDemo.exe.config
+C:\Users\v-hoverz\Documents\Visual Studio 14\Projects\IronPythonDemo\bin\Debug\CodeFile1.py
+C:\Users\v-hoverz\Documents\Visual Studio 14\Projects\IronPythonDemo\bin\Debug\IronPythonDemo.exe
+C:\Users\v-hoverz\Documents\Visual Studio 14\Projects\IronPythonDemo\bin\Debug\IronPythonDemo.pdb
+C:\Users\v-hoverz\Documents\Visual Studio 14\Projects\IronPythonDemo\bin\Debug\IronPython.dll
+C:\Users\v-hoverz\Documents\Visual Studio 14\Projects\IronPythonDemo\bin\Debug\IronPython.Modules.dll
+C:\Users\v-hoverz\Documents\Visual Studio 14\Projects\IronPythonDemo\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\v-hoverz\Documents\Visual Studio 14\Projects\IronPythonDemo\bin\Debug\Microsoft.Scripting.dll
+C:\Users\v-hoverz\Documents\Visual Studio 14\Projects\IronPythonDemo\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\v-hoverz\Documents\Visual Studio 14\Projects\IronPythonDemo\bin\Debug\IronPython.xml
+C:\Users\v-hoverz\Documents\Visual Studio 14\Projects\IronPythonDemo\bin\Debug\IronPython.Modules.xml
+C:\Users\v-hoverz\Documents\Visual Studio 14\Projects\IronPythonDemo\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\v-hoverz\Documents\Visual Studio 14\Projects\IronPythonDemo\bin\Debug\Microsoft.Scripting.xml
+C:\Users\v-hoverz\Documents\Visual Studio 14\Projects\IronPythonDemo\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\v-hoverz\Documents\Visual Studio 14\Projects\IronPythonDemo\obj\Debug\IronPythonDemo.csprojResolveAssemblyReference.cache
+C:\Users\v-hoverz\Documents\Visual Studio 14\Projects\IronPythonDemo\obj\Debug\IronPythonDemo.exe
+C:\Users\v-hoverz\Documents\Visual Studio 14\Projects\IronPythonDemo\obj\Debug\IronPythonDemo.pdb
